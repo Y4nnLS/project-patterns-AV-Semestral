@@ -1,0 +1,7 @@
+2025-11-18 19:34:59 [INFO] Thread T3 iniciando processamento.
+2025-11-18 19:34:59 [INFO] Thread T1 iniciando processamento.
+2025-11-18 19:34:59 [INFO] Thread T2 iniciando processamento.
+2025-11-18 19:34:59 [AUDIT] Thread T2 finalizou processamento.
+2025-11-18 19:34:59 [AUDIT] Thread T1 finalizou processamento.
+2025-11-18 19:34:59 [AUDIT] Thread T3 finalizou processamento.
+2025-11-18 19:34:59 [ERROR] Aplicação encerrando após execução de múltiplas threads.
